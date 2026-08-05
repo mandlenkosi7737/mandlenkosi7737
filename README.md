@@ -5,10 +5,10 @@ and I managed to create my own projects namely( whack-a-mole and random numbers 
 
 <h1>Tools I used</h1>
 <h5>
--SQlite
--R Studio
--Microsoft Excel
--Google sheets
--Tableau
+-SQlite<br>
+-R Studio<br>
+-Microsoft Excel<br>
+-Google sheets<br>
+-Tableau<br>
 </h5>
 <h1>My Projects</h1>
