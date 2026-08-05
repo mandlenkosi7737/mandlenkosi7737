@@ -1,16 +1,13 @@
-## Hi there 👋
+#Greetings,MY name is Mandlenkosi Dlamini.
+I am a junior data analyst who studied with google coursera courses.I also have a background of front-end development
+with subjects like HTML,CSS and Javascript which I completed at Zaio with their certificate of completion
+and I managed to create my own projects namely( whack-a-mole and random numbers generator)
 
-<!--
-**mandlenkosi7737/mandlenkosi7737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Tools I used
+-SQlite
+-R Studio
+-Microsoft Excel
+-Google sheets
+-Tableau
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#My Projects
