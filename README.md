@@ -12,3 +12,14 @@ and I managed to create my own projects namely <a href='https://somgebzin.github
 -Tableau<br>
 </h4>
 <h1>My Projects</h1>
+
+<a href="https://github.com/mandlenkosi7737/my-social-media-databse-project-">Data cleanig with SQL</a>
+
+<a href="https://github.com/mandlenkosi7737/my-social-media-databse-project-">R-Programing</a>
+
+<a href="https://github.com/mandlenkosi7737/my-social-media-databse-project-">R-Programing</a>
+
+<a href="https://github.com/mandlenkosi7737/my-social-media-databse-project-">R-Programing</a>
+
+<a href="https://github.com/mandlenkosi7737/my-social-media-databse-project-">R-Programing</a>
+
