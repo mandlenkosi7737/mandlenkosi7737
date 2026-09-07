@@ -15,7 +15,7 @@ and I managed to create my own projects namely <a href='https://somgebzin.github
 
 <a href="https://github.com/mandlenkosi7737/my-social-media-databse-project-">Data cleanig with SQL</a>
 
-<a href="https://github.com/mandlenkosi7737/my-social-media-databse-project-">R-Programing</a>
+<a href="https://github.com/mandlenkosi7737/The-R-programing-for-data-analysis">R-Programing</a>
 
 <a href="https://github.com/mandlenkosi7737/my-social-media-databse-project-">R-Programing</a>
 
