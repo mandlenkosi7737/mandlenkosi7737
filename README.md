@@ -17,9 +17,9 @@ and I managed to create my own projects namely <a href='https://somgebzin.github
 
 <a href="https://github.com/mandlenkosi7737/The-R-programing-for-data-analysis">R-Programing</a>
 
-<a href="https://github.com/mandlenkosi7737/my-social-media-databse-project-">R-Programing</a>
+<a href="https://github.com/mandlenkosi7737/my-social-media-databse-project-">Visualizing  social media data with Tableua </a>
 
-<a href="https://github.com/mandlenkosi7737/my-social-media-databse-project-">R-Programing</a>
+<a href="https://github.com/mandlenkosi7737/my-social-media-databse-project-">Creating Pivot Tabl and Conditionala
+formating with Excel</a>
 
-<a href="https://github.com/mandlenkosi7737/my-social-media-databse-project-">R-Programing</a>
 
