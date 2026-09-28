@@ -19,7 +19,7 @@ and I managed to create my own projects namely <a href='https://somgebzin.github
 
 <a href="https://public.tableau.com/app/profile/omuhle.dlamini/vizzes">Visualizing  social media data with Tableua </a>
 
-<a href="https://github.com/mandlenkosi7737/my-social-media-databse-project-">Creating Pivot Table and Conditionala
+<a href="https://github.com/mandlenkosi7737/My-Excel-analysis-project">Creating Pivot Table and Conditionala
 formating with Excel</a>
 
 
