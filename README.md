@@ -1,6 +1,7 @@
 <h1>Greetings,MY name is Mandlenkosi Dlamini.</h1><br>
 I am a junior data analyst who studied with google coursera courses.I also have knowledge and skills in
- subjects like HTML,CSS and Javascript which I completed at Zaio with their certificate of completion
+ subjects like  <a href='https://github.com/Somgebzin/gebzindev/blob/main/html.jpeg'>HTML</a>,<a href='https://github.com/Somgebzin/gebzindev/blob/main/zaio.jpeghttps://github.com/Somgebzin/gebzindev/blob/main/html.jpeg
+'>CSS</a> and Javascript which I completed at Zaio with their certificate of completion
 and I managed to create my own projects namely <a href='https://somgebzin.github.io/gebzindev/game.html'> whack-a-mole</a> and <a href='https://somgebzin.github.io/gebzindev/numbers.html'>random numbers generator </a>
 
 <h1>Tools I used</h1>
